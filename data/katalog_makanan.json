@@ -1,0 +1,20 @@
+[
+  {"id_makanan":"MKN-001","nama_makanan":"Nasi Ayam Geprek Dada + Lalapan","kategori":"Menu nasi · contoh 1 piring","kalori_kkal":520.0,"protein_gram":32.5,"karbo_gram":58.0,"lemak_gram":16.0},
+  {"id_makanan":"MKN-002","nama_makanan":"Nasi Telur Dadar","kategori":"Menu nasi · contoh 1 piring","kalori_kkal":440.0,"protein_gram":14.0,"karbo_gram":60.0,"lemak_gram":16.0},
+  {"id_makanan":"MKN-003","nama_makanan":"Mie Instan + Telur","kategori":"Makanan utama · contoh 1 mangkuk","kalori_kkal":470.0,"protein_gram":15.0,"karbo_gram":57.5,"lemak_gram":20.0},
+  {"id_makanan":"MKN-004","nama_makanan":"Bubur Ayam","kategori":"Makanan utama · contoh 1 mangkuk","kalori_kkal":360.0,"protein_gram":18.0,"karbo_gram":49.5,"lemak_gram":10.0},
+  {"id_makanan":"MKN-005","nama_makanan":"Nasi Pecel Lele","kategori":"Menu nasi · contoh 1 piring","kalori_kkal":550.0,"protein_gram":25.0,"karbo_gram":63.0,"lemak_gram":22.0},
+  {"id_makanan":"MKN-006","nama_makanan":"Nasi Goreng Kantin","kategori":"Menu nasi · contoh 1 piring","kalori_kkal":600.0,"protein_gram":18.0,"karbo_gram":78.0,"lemak_gram":24.0},
+  {"id_makanan":"MKN-007","nama_makanan":"Es Teh Manis","kategori":"Minuman · contoh 1 gelas","kalori_kkal":100.0,"protein_gram":0.0,"karbo_gram":25.0,"lemak_gram":0.0},
+  {"id_makanan":"MKN-008","nama_makanan":"Nasi Putih Matang","kategori":"Makanan pokok · contoh 150 g","kalori_kkal":195.0,"protein_gram":3.5,"karbo_gram":43.0,"lemak_gram":1.0},
+  {"id_makanan":"MKN-009","nama_makanan":"Telur Rebus","kategori":"Lauk · contoh 1 butir","kalori_kkal":78.0,"protein_gram":6.0,"karbo_gram":0.0,"lemak_gram":6.0},
+  {"id_makanan":"MKN-010","nama_makanan":"Tempe Goreng","kategori":"Lauk · contoh 2 potong","kalori_kkal":200.0,"protein_gram":10.0,"karbo_gram":13.0,"lemak_gram":12.0},
+  {"id_makanan":"MKN-011","nama_makanan":"Tahu Goreng","kategori":"Lauk · contoh 2 potong","kalori_kkal":160.0,"protein_gram":8.0,"karbo_gram":5.0,"lemak_gram":12.0},
+  {"id_makanan":"MKN-012","nama_makanan":"Soto Ayam + Nasi","kategori":"Makanan utama · contoh 1 set","kalori_kkal":420.0,"protein_gram":22.0,"karbo_gram":56.0,"lemak_gram":12.0},
+  {"id_makanan":"MKN-013","nama_makanan":"Gado-gado","kategori":"Makanan utama · contoh 1 piring","kalori_kkal":450.0,"protein_gram":17.0,"karbo_gram":55.0,"lemak_gram":18.0},
+  {"id_makanan":"MKN-014","nama_makanan":"Roti Tawar","kategori":"Makanan pokok · contoh 2 lembar","kalori_kkal":160.0,"protein_gram":5.0,"karbo_gram":30.0,"lemak_gram":2.0},
+  {"id_makanan":"MKN-015","nama_makanan":"Pisang","kategori":"Buah · contoh 1 buah sedang","kalori_kkal":100.0,"protein_gram":1.0,"karbo_gram":24.0,"lemak_gram":0.0},
+  {"id_makanan":"MKN-016","nama_makanan":"Susu UHT","kategori":"Minuman · contoh 200 ml","kalori_kkal":130.0,"protein_gram":6.0,"karbo_gram":10.0,"lemak_gram":7.0},
+  {"id_makanan":"MKN-017","nama_makanan":"Kopi Susu Manis","kategori":"Minuman · contoh 1 gelas","kalori_kkal":180.0,"protein_gram":3.0,"karbo_gram":28.5,"lemak_gram":6.0},
+  {"id_makanan":"MKN-018","nama_makanan":"Air Putih","kategori":"Minuman · contoh 1 gelas","kalori_kkal":0.0,"protein_gram":0.0,"karbo_gram":0.0,"lemak_gram":0.0}
+]
